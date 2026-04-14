@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+supabase
+psycopg2-binary
+langchain
+langchain-google-genai
+langchain-huggingface
+langgraph
+sentence-transformers
